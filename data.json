@@ -1,0 +1,36 @@
+{
+  "students": [
+    {
+      "id": "S001",
+      "name": "Ibrahim Abdullahi",
+      "grade": "A",
+      "results": [
+        { "subject": "Math", "score": 92 },
+        { "subject": "Science", "score": 88 },
+        { "subject": "English", "score": 85 },
+        { "subject": "arabic", "score": 76 }
+        
+      ]
+    },
+    {
+      "id": "S002",
+      "name": "halima noor",
+      "grade": "B+",
+      "results": [
+        { "subject": "Math", "score": 78 },
+        { "subject": "Science", "score": 81 },
+        { "subject": "English", "score": 89 }
+      ]
+    },
+    {
+      "id": "S003",
+      "name": "Ali Noor",
+      "grade": "B",
+      "results": [
+        { "subject": "Math", "score": 72 },
+        { "subject": "Science", "score": 75 },
+        { "subject": "English", "score": 80 }
+      ]
+    }
+  ]
+}

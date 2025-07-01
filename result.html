@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Student Results</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Student Results</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="student.html">Students</a>
+      <a href="result.html" class="active">Results</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="search-section">
+      <h2>Search for a student's results:</h2>
+      <input type="text" id="search-input" placeholder="Enter student ID" />
+      <button onclick="searchResults()">Search</button>
+    </section>
+
+    <section id="result-output"></section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Student Results Viewer</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
