@@ -9,7 +9,6 @@
         { "subject": "Science", "score": 88 },
         { "subject": "English", "score": 85 },
         { "subject": "arabic", "score": 76 }
-        
       ]
     },
     {
@@ -30,6 +29,28 @@
         { "subject": "Math", "score": 72 },
         { "subject": "Science", "score": 75 },
         { "subject": "English", "score": 80 }
+      ]
+    },
+    {
+      "id": "S004",
+      "name": "Ayan Ibrahim",
+      "grade": "A-",
+      "results": [
+        { "subject": "Math", "score": 88 },
+        { "subject": "Science", "score": 90 },
+        { "subject": "English", "score": 84 },
+        { "subject": "kiswahili", "score": 98 }
+      ]
+    },
+    {
+      "id": "S005",
+      "name": "Ahmed Yusuf",
+      "grade": "B",
+      "results": [
+        { "subject": "Math", "score": 74 },
+        { "subject": "Science", "score": 79 },
+        { "subject": "English", "score": 77 },
+        { "subject": "Geography", "score": 80 }
       ]
     }
   ]
